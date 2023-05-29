@@ -15,7 +15,7 @@ Note Taker app. Challenge 11 UNC Bootcamp
 - [Questions](#questions)
 - [License Type](#license-type)
 
-##ScreenShots <a name="ScreenShots"></a>
+## ScreenShots <a name="ScreenShots"></a>
 ## Installation <a name="installation"></a>
 -Make sure you have Node.js installed on your machine. You can download Node.js from the official website: https://nodejs.org <br>
 -Clone or download the repository containing code to your local machine.<br>
