@@ -25,8 +25,8 @@ Note Taker app. Challenge 11 UNC Bootcamp
 
 
 ## Usage Instructions <a name="usage"></a>
--Add or remove notes for future referance! 
--Note that both fields are required to be filled in to save note
+-Add or remove notes for future referance!<br> 
+-Note that both fields are required to be filled in to save note<br>
 
 
 ## Contribution Guidelines <a name="contribution"></a>
