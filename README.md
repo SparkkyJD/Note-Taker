@@ -17,11 +17,16 @@ Note Taker app. Challenge 11 UNC Bootcamp
 
 
 ## Installation <a name="installation"></a>
-Download
+-Make sure you have Node.js installed on your machine. You can download Node.js from the official website: https://nodejs.org
+-Clone or download the repository containing code to your local machine.
+-Install Dependencies by running "npm install" in terminal
+-Run app by running "node server.js" in terminal
+-Use http://localhost:3001 to view application!
 
 
 ## Usage Instructions <a name="usage"></a>
-usageee
+-Add or remove notes for future referance! 
+-Note that both fields are required to be filled in to save note
 
 
 ## Contribution Guidelines <a name="contribution"></a>
@@ -29,7 +34,7 @@ usageee
 
 
 ## Test Instructions <a name="test"></a>
-erg
+
 
 ## Questions <a name="github"></a>
  Github Username: <a href="https://github.com/SparkkyJD">SparkkyJD</a>
