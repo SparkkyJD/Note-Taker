@@ -17,11 +17,11 @@ Note Taker app. Challenge 11 UNC Bootcamp
 
 
 ## Installation <a name="installation"></a>
--Make sure you have Node.js installed on your machine. You can download Node.js from the official website: https://nodejs.org
--Clone or download the repository containing code to your local machine.
--Install Dependencies by running "npm install" in terminal
--Run app by running "node server.js" in terminal
--Use http://localhost:3001 to view application!
+-Make sure you have Node.js installed on your machine. You can download Node.js from the official website: https://nodejs.org <br>
+-Clone or download the repository containing code to your local machine.<br>
+-Install Dependencies by running "npm install" in terminal<br>
+-Run app by running "node server.js" in terminal<br>
+-Use http://localhost:3001 to view application!<br>
 
 
 ## Usage Instructions <a name="usage"></a>
