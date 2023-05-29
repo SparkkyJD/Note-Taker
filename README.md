@@ -11,7 +11,6 @@ Note Taker app. Challenge 11 UNC Bootcamp
 - [Installation](#installation)
 - [Usage Instructions](#usage-instructions)
 - [Contribution Guidelines](#contribution-guidelines)
-- [Test Instructions](#test-instructions)
 - [Questions](#questions)
 - [License Type](#license-type)
 
@@ -30,11 +29,7 @@ Note Taker app. Challenge 11 UNC Bootcamp
 
 
 ## Contribution Guidelines <a name="contribution"></a>
-
-
-
-## Test Instructions <a name="test"></a>
-
+Not open for contribution.
 
 ## Questions <a name="github"></a>
  Github Username: <a href="https://github.com/SparkkyJD">SparkkyJD</a>
