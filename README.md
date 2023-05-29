@@ -16,6 +16,11 @@ Note Taker app. Challenge 11 UNC Bootcamp
 - [License Type](#license-type)
 
 ## ScreenShots <a name="ScreenShots"></a>
+![Screenshot (25)](https://github.com/SparkkyJD/Note-Taker/assets/127361245/79116648-9690-49d5-9387-773c95abdc37)
+![Screenshot (26)](https://github.com/SparkkyJD/Note-Taker/assets/127361245/a7ae51e5-8db3-4f46-ba14-8684f0d7829f)
+![Screenshot (28)](https://github.com/SparkkyJD/Note-Taker/assets/127361245/b1199d6b-da26-42bd-9430-9e11661849f5)
+![Screenshot (20)](https://github.com/SparkkyJD/Note-Taker/assets/127361245/d57c321b-a190-4652-a8c8-cd3af568a214)
+
 ## Installation <a name="installation"></a>
 -Make sure you have Node.js installed on your machine. You can download Node.js from the official website: https://nodejs.org <br>
 -Clone or download the repository containing code to your local machine.<br>
