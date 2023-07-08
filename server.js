@@ -4,7 +4,7 @@ const path = require('path');
 // makes an express app
 const app = express();
 // sets server port to 3001
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 // Starts the server using the 'node server.js' command 
 app.listen(PORT, () => {
   console.log(`App listening at port: ${PORT}`);
